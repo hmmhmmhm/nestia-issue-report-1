@@ -1,15 +1,5 @@
 import { Body, Controller, Post } from '@nestjs/common';
-import { IsNumber, IsOptional } from 'class-validator';
-
-export class GetSampleLogDto {
-  @IsOptional()
-  @IsNumber()
-  skip?: number;
-
-  @IsOptional()
-  @IsNumber()
-  take!: number;
-}
+import { GetSampleLogDto } from 'src/api/structure/sample/get-sample-log.dto';
 
 @Controller('sample')
 export class SampleController {

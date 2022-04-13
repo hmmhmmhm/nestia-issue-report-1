@@ -25,7 +25,7 @@
     "@nestjs/platform-express": "^8.1.1",
     "class-transformer": "^0.5.1",
     "class-validator": "^0.13.2",
-    "nestia-fetcher": "^1.1.0",
+    "nestia-fetcher": "^2.0.0",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^7.4.0"
@@ -44,7 +44,7 @@
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^3.4.1",
     "jest": "^27.3.0",
-    "nestia": "^1.1.0",
+    "nestia": "^2.0.3",
     "prettier": "^2.4.1",
     "source-map-support": "^0.5.20",
     "supertest": "^6.1.6",

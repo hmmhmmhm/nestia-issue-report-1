@@ -44,7 +44,7 @@
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^3.4.1",
     "jest": "^27.3.0",
-    "nestia": "^2.0.3",
+    "nestia": "^2.0.9",
     "prettier": "^2.4.1",
     "source-map-support": "^0.5.20",
     "supertest": "^6.1.6",
